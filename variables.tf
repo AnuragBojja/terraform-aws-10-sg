@@ -2,7 +2,7 @@ variable "env" {
 #   default = "dev"
 }
 variable "project_name" {
-#   default = "Roboshop"
+#   default = "roboshop"
 }
 variable "sg_tags" {
   default = {}
